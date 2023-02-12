@@ -1,6 +1,6 @@
 <!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
 <div align="center">
-    <a href="https://discord.com/users/976470654461288470" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/1068529866703650826"></a>
+    <a href="https://discord.com/users/976470654461288470" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/976470654461288470"></a>
 </div>
 
 ```python
